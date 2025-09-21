@@ -198,7 +198,7 @@
 (async () => {
     'use strict';
     const config = {
-        time: 10,
+        time: 25,
         key: '',
         safeMode: true
     };
