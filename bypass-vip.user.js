@@ -194,11 +194,11 @@
 // @homepageURL   https://bypass.vip
 // @icon          https://www.google.com/s2/favicons?domain=bypass.vip&sz=64
 // @run-at        document-start
-// ==/UserScript==
+// ==/UserScript==https://ads.luarmor.net/get_key?for=Ronix_Windows_Key_System-wgusmcaFWwqX
 (async () => {
     'use strict';
     const config = {
-        time: 10,
+        time: 25,
         key: '',
         safeMode: true
     };
